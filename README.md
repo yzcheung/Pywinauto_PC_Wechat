@@ -1,2 +1,3 @@
-# pywinauto_pcwechat
-use pywinatuo to send message by pc wechat
+# 使用Pywinauto操作PC版微信
+
+一个简单的使用Pywinauto操作PC版微信模块的封装
